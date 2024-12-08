@@ -6,8 +6,8 @@ The heart of the survey was the Moral Foundations Theory of Jonathan Haidt. Memb
 
 The financial institution values Localism, Sustainability, and Education. These aspects of member's values were assessed in the survey as well. Localism and Sustainability used validated scales and thus can be summarized via a single score, where higher values indicate greater support for the values. Education is summarized by the following three questions, which we do not have evidence can be combined into a single score:
 
-    In general, public schools provide a better education than private schools.
-    Public school teachers are underpaid.
-    Experience is more important than education in determining success in life. These questions were evaluated on a 1 to 6 scale where 1 indicated "Strongly Disagree" and 6 indicated "Strongly Agree".
+In general, public schools provide a better education than private schools.
+Public school teachers are underpaid.
+Experience is more important than education in determining success in life. These questions were evaluated on a 1 to 6 scale where 1 indicated "Strongly Disagree" and 6 indicated "Strongly Agree".
 
 Finally, we have information on the member that can be used to understand variation in their values.
