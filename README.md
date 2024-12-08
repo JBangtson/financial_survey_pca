@@ -27,6 +27,7 @@ Public school teachers are underpaid.
 Experience is more important than education in determining success in life. These questions were evaluated on a 1 to 6 scale where 1 indicated "Strongly Disagree" and 6 indicated "Strongly Agree".
 
 Finally, we have information on the member that can be used to understand variation in their values.
+<<<<<<< HEAD
 
 # Data Dictionary
 
@@ -56,3 +57,5 @@ The data consists of the following columns:
 * support.of.focal.value: Respondents were given an opportunity to indicate how they 
   supported their focal value. Those responses were collapsed into a single score, where 
   a higher value indicates more support.
+=======
+>>>>>>> d4fb24dc2b5d1755af5f429d6840e38423c071a6
