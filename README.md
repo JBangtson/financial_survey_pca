@@ -61,5 +61,5 @@ The data consists of the following columns:
 * support.of.focal.value: Respondents were given an opportunity to indicate how they 
   supported their focal value. Those responses were collapsed into a single score, where 
   a higher value indicates more support.
-=======
->>>>>>> d4fb24dc2b5d1755af5f429d6840e38423c071a6
+
+
