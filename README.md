@@ -2,6 +2,8 @@
 
 A financial institution in Washington 💰 has expressed concerns that its existing membership may not align with its corporate values. This realization led them to acknowledge a need for more understanding regarding the values of their members. To address this, they surveyed 2,421 members. Utilizing dimensionality reduction on continuous datatypes with Principal Component Analysis (PCA), we're able to gain insights into different perspectives to analyze the data.
 
+I used Principal Component Analysis (PCA) instead of Linear Discriminant Analysis (LDA) to explore clusters within the data that could explain its variance. However, the PCA results were not helpful for analyzing the survey outcomes. Moving forward, I plan to use LDA to gain more insights from the data in a seperate repo.
+
 Component 1 explains 21% of variance, and the first three PCs explain over 50% of the variance.
 
 ![PCA Variance](assets/pca_variance.png)
