@@ -20,7 +20,7 @@ To further investigate, I created a scatter plot with PC1 on the x-axis and PC2 
 
 The clusters do not directly represent features of the original data but rather groupings based on the variance captured by PC1 and PC2. Progressivism had the highest loading (relationship to the original variable) of almost 0.5 in PC1, while Fairness and Harm both had nearly 0.5 loadings for PC2. Therefore, the clusters may reflect significance in those dimensions which may stand out in LDA.
 
-In conclusion, by applying the PCA dimensionality reduction technique, I clustered the two PC that explain the most variance in the data. However, due to the limited value of insights gained from the clustering, I do not recommend proceeding with further analysis; the k-mean clusters do not appear to have any importance. If further investigation were to be conducted, I would consider analyzing each cluster using linear regression while experimenting with an decreased number of clusters.
+In conclusion, by applying the PCA dimensionality reduction technique, I clustered the two PC that have the most variance in the data. However, due to the limited value of insights gained from the clustering, I do not recommend proceeding with further analysis; the k-mean clusters do not appear to have any importance. If further investigation were to be conducted, I would consider analyzing each cluster using linear regression while experimenting with an decreased number of clusters.
 
 The heart of the survey was the Moral Foundations Theory of Jonathan Haidt. Members were surveyed on the Moral Foundations Questionnaire, which you should take so you understand the test. Survey respondents were scored on the five foundations as well as a single-number summary, Progressivism.
 
